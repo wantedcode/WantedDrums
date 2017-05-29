@@ -19,7 +19,7 @@ namespace WantedDrums
         {
             a = !a;
             cos.Text = a ? "Rumbumber" : "Meśkśkśkśkste";
-
+            int i;
         }
     }
 }
