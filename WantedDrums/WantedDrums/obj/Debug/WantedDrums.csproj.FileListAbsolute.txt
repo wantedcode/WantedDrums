@@ -1,0 +1,15 @@
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedDrums\WantedDrums\WantedDrums\bin\Debug\WantedDrums.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedDrums\WantedDrums\WantedDrums\bin\Debug\WantedDrums.pdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedDrums\WantedDrums\WantedDrums\bin\Debug\Xamarin.Forms.Core.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedDrums\WantedDrums\WantedDrums\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedDrums\WantedDrums\WantedDrums\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedDrums\WantedDrums\WantedDrums\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedDrums\WantedDrums\WantedDrums\bin\Debug\Xamarin.Forms.Core.xml
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedDrums\WantedDrums\WantedDrums\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedDrums\WantedDrums\WantedDrums\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedDrums\WantedDrums\WantedDrums\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedDrums\WantedDrums\WantedDrums\obj\Debug\WantedDrums.csprojResolveAssemblyReference.cache
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedDrums\WantedDrums\WantedDrums\obj\Debug\WantedDrums.MainPage.xaml.g.cs
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedDrums\WantedDrums\WantedDrums\obj\Debug\WantedDrums.App.xaml.g.cs
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedDrums\WantedDrums\WantedDrums\obj\Debug\WantedDrums.dll
+C:\Programowanie\Visual Studio Projects\XamarinForms\WantedDrums\WantedDrums\WantedDrums\obj\Debug\WantedDrums.pdb
