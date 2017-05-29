@@ -13,5 +13,13 @@ namespace WantedDrums
         {
             InitializeComponent();
         }
+
+            bool a = false;
+        private void Button_OnClicked(object sender, EventArgs e)
+        {
+            a = !a;
+            cos.Text = a ? "Rumbumber" : "Meśkśkśkśkste";
+
+        }
     }
 }

@@ -1,0 +1,17 @@
+D:\Staz\Projekty\WantedProject\WantedDrums\WantedDrums\bin\Debug\WantedDrums.dll
+D:\Staz\Projekty\WantedProject\WantedDrums\WantedDrums\bin\Debug\WantedDrums.pdb
+D:\Staz\Projekty\WantedProject\WantedDrums\WantedDrums\bin\Debug\Xamarin.Forms.Core.dll
+D:\Staz\Projekty\WantedProject\WantedDrums\WantedDrums\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Staz\Projekty\WantedProject\WantedDrums\WantedDrums\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Staz\Projekty\WantedProject\WantedDrums\WantedDrums\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Staz\Projekty\WantedProject\WantedDrums\WantedDrums\bin\Debug\Xamarin.Forms.Core.xml
+D:\Staz\Projekty\WantedProject\WantedDrums\WantedDrums\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Staz\Projekty\WantedProject\WantedDrums\WantedDrums\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Staz\Projekty\WantedProject\WantedDrums\WantedDrums\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Staz\Projekty\WantedProject\WantedDrums\WantedDrums\obj\Debug\WantedDrums.csprojResolveAssemblyReference.cache
+D:\Staz\Projekty\WantedProject\WantedDrums\WantedDrums\obj\Debug\WantedDrums.MainPage.xaml.g.cs
+D:\Staz\Projekty\WantedProject\WantedDrums\WantedDrums\obj\Debug\WantedDrums.App.xaml.g.cs
+D:\Staz\Projekty\WantedProject\WantedDrums\WantedDrums\obj\Debug\WantedDrums.dll
+D:\Staz\Projekty\WantedProject\WantedDrums\WantedDrums\obj\Debug\WantedDrums.pdb
+D:\Staz\Projekty\WantedProject\WantedDrums\WantedDrums\obj\Debug\WantedDrums.dll.mdb
+D:\Staz\Projekty\WantedProject\WantedDrums\WantedDrums\bin\Debug\WantedDrums.dll.mdb

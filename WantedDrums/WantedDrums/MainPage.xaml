@@ -3,9 +3,18 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:WantedDrums"
              x:Class="WantedDrums.MainPage">
-
-	<Label Text="Welcome to Xamarin Forms!" 
+<Grid HeightRequest="200">
+  <Grid.RowDefinitions>
+    <RowDefinition Height="*"></RowDefinition>
+    <RowDefinition Height="*"></RowDefinition>
+  </Grid.RowDefinitions>
+  
+	<Label Grid.Row="0" x:Name="cos" Text="Welcome to Xamarin Forms!" 
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
-
+  
+  <Button Grid.Row="1" x:Name="Button" Clicked="Button_OnClicked"
+          WidthRequest="20"
+          HeightRequest="20"/>
+</Grid>
 </ContentPage>
